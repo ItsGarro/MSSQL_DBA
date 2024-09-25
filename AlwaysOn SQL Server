@@ -37,6 +37,36 @@
         <mxCell id="gmj-NZ1OGjYL73kC3HP5-13" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;2.&lt;/b&gt; Añadir unidad donde se almacenarán los archivos de datos para las bases de datos&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;SistecreditoV2 y Cifin.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;3.&lt;/b&gt; Añadir unidad con los archivos de base de datos.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;4. &lt;/b&gt;Añadir unidad de respaldos.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;5.&lt;/b&gt; Cambio nombre de servidor e IP.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-500" y="150" width="720" height="210" as="geometry" />
         </mxCell>
+        <mxCell id="gmj-NZ1OGjYL73kC3HP5-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="145" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gmj-NZ1OGjYL73kC3HP5-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1590" y="570" width="1020" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="gmj-NZ1OGjYL73kC3HP5-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_SQL_VM.svg;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="700" width="106.67" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gmj-NZ1OGjYL73kC3HP5-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
+          <mxGeometry x="-1336.67" y="810" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gmj-NZ1OGjYL73kC3HP5-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;MEDDATPROD01&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Principal&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1380" y="650" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gmj-NZ1OGjYL73kC3HP5-20" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_SQL_VM.svg;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="691" width="106.67" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gmj-NZ1OGjYL73kC3HP5-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;MEDDATPROD03&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Replica 1&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-926.6600000000001" y="649" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gmj-NZ1OGjYL73kC3HP5-22" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
+          <mxGeometry x="-886.6600000000001" y="800" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gmj-NZ1OGjYL73kC3HP5-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="830" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gmj-NZ1OGjYL73kC3HP5-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Asincrónica&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1145" y="800" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
